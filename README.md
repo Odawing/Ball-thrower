@@ -1,6 +1,6 @@
 # Ball-thrower
 Test task
 
-Для зміни спавнів перешкод використовується scale мешу plane на спавнері зі скриптом.
-Також на спавнері можна налаштувати частоту спавну перешкод.
-Стартовий розмір гравця налаштовується на самому гравці, швидкість польоту кулі на префабі кулі.
+To change obstacle spawns, scale the plane mesh on the spawner with the script is used.
+You can also set the spawn frequency of interference on the spawner.
+The starting size of the player is adjusted on the player himself, the speed of the ball is on the prefab ball.
